@@ -1,0 +1,5 @@
+git init
+git add flename
+git commit -m "some message"
+addd the git
+git push
